@@ -14,16 +14,14 @@ p a {
     
 }
 .i {
-    background-color: lightgray;
-}
-.card-header {
     background-color: ghostwhite;
 }
-.card a {
-    background-color:black;
-}
+
 .b {
     background-color: ghostwhite;
+}
+.card-body {
+    background: lightgrey;
 }
 
 
