@@ -1,0 +1,29 @@
+h1 {
+    color: dimgrey;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: black;
+}
+h3 {
+    text-align: center;
+}
+p a {
+    font-size: x-large;
+    
+}
+.i {
+    background-color: lightgray;
+}
+.card-header {
+    background-color: ghostwhite;
+}
+.card a {
+    background-color:black;
+}
+.b {
+    background-color: ghostwhite;
+}
+
+
